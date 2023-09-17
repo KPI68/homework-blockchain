@@ -70,7 +70,8 @@ Change the first block (it does not have ledger info!)
 ![1st block change](Images/change_1st_block.png)
 
 It's invalid!
-![invalid](Imagess/invalid_change.png)
+
+![invalid](Images/invalid_change.png)
 
 ### Inspect the block
 
