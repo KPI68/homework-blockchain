@@ -34,46 +34,46 @@ We also provide a function to try and change some information then validate the 
 ### Build the chain
 
 From a preset "genesis" block, we can input the information to build a new block, then add it to the chain.
-![Add a block](Resources/add_block.png)
+![Add a block](Images/add_block.png)
 
 ### See the chain
 
 Whenever a new block is added, the "chain view" extends to show it.
-![The chain](Resources/the_chain.png)
+![The chain](Images/the_chain.png)
 
 ### Validate chain
 
 Click the Validate Chain button, if the chain is validated, the ledger is displayed for easy read.
-![The valid ledger](Resources/valid_chain.png)
+![The valid ledger](Images/valid_chain.png)
 
 ### Pause during long-run mining
 
 High difficulty
-![6 zeros](Resources/high_difficulty.png)
+![6 zeros](Images/high_difficulty.png)
 
 Toggle to pause mining
-![pause](Resources/pause_mining.png)
+![pause](Images/pause_mining.png)
 
 ### Valid change
 
 We can change the last block
-![last block change](Resources/change_last_block.png)
+![last block change](Images/change_last_block.png)
 
 It's valid!
-![valid](Resources/valid_change.png)
+![valid](Images/valid_change.png)
 
 ### Invalid change
 
 Change the first block (it does not have ledger info!)
-![1st block change](Resources/change_1st_block.png)
+![1st block change](Images/change_1st_block.png)
 
 It's invalid!
-![invalid](Resources/invalid_change.png)
+![invalid](Imagess/invalid_change.png)
 
 ### Inspect the block
 
 Although the change makes the chain invalid, we still can inspect the block.
-![inspect](Resources/inspect_block.png)
+![inspect](Images/inspect_block.png)
 
 ### Last but not least
 
