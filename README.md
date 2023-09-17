@@ -49,9 +49,11 @@ Click the Validate Chain button, if the chain is validated, the ledger is displa
 ### Pause during long-run mining
 
 High difficulty
+
 ![6 zeros](Images/high_difficulty.png)
 
 Toggle to pause mining
+
 ![pause](Images/pause_mining.png)
 
 ### Valid change
