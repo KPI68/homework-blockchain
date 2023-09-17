@@ -60,7 +60,7 @@ We can change the last block
 ![last block change](Resources/change_last_block.png)
 
 It's valid!
-![valid](Resources/valid_chain.png)
+![valid](Resources/valid_change.png)
 
 ### Invalid change
 
